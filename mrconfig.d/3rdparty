@@ -1,0 +1,2 @@
+[code/imglib/pixlib]
+checkout = git clone git://git.code.sf.net/p/pixlib/code pixlib
