@@ -1,8 +1,66 @@
 # mr configuration file for ImgLib2 projects
 
-# Install myrepos on Mac OS X using Homebrew, or on Debian/Ubuntu using apt.
+# Install myrepos on macOS using Homebrew, or on Ubuntu using apt.
 
 # Reference this file from your toplevel ~/.mrconfig like this:
 # include = cat $CODE_BASE/imglib/dotfiles/mrconfig 2> /dev/null || true
 
-include = cat $CODE_BASE/imglib/dotfiles/mrconfig.d/* 2> /dev/null || true
+[code/imglib/dotfiles]
+checkout = git clone git://github.com/imglib/dotfiles
+
+[code/imglib/imglib2]
+checkout = git clone git://github.com/imglib/imglib2
+
+[code/imglib/imglib2-advanced-workshop]
+checkout = git clone git://github.com/imglib/imglib2-advanced-workshop
+
+[code/imglib/imglib2-algorithm]
+checkout = git clone git://github.com/imglib/imglib2-algorithm
+
+[code/imglib/imglib2-algorithm-fft]
+checkout = git clone git://github.com/imglib/imglib2-algorithm-fft
+
+[code/imglib/imglib2-algorithm-gpl]
+checkout = git clone git://github.com/imglib/imglib2-algorithm-gpl
+
+[code/imglib/imglib2-cache]
+checkout = git clone git://github.com/imglib/imglib2-cache
+
+[code/imglib/imglib2-ij]
+checkout = git clone git://github.com/imglib/imglib2-ij
+
+[code/imglib/imglib2-imglyb]
+checkout = git clone git://github.com/imglib/imglib2-imglyb
+
+[code/imglib/imglib2-introductory-workshop]
+checkout = git clone git://github.com/imglib/imglib2-introductory-workshop
+
+[code/imglib/imglib2-javadoc]
+checkout = git clone git://github.com/imglib/imglib2-javadoc
+
+[code/imglib/imglib2-realtransform]
+checkout = git clone git://github.com/imglib/imglib2-realtransform
+
+[code/imglib/imglib2-roi]
+checkout = git clone git://github.com/imglib/imglib2-roi
+
+[code/imglib/imglib2-script]
+checkout = git clone git://github.com/imglib/imglib2-script
+
+[code/imglib/imglib2-tests]
+checkout = git clone git://github.com/imglib/imglib2-tests
+
+[code/imglib/imglib2-tutorials]
+checkout = git clone git://github.com/imglib/imglib2-tutorials
+
+[code/imglib/imglib2-ui]
+checkout = git clone git://github.com/imglib/imglib2-ui
+
+[code/imglib/imglib2-unsafe]
+checkout = git clone git://github.com/imglib/imglib2-unsafe
+
+[code/imglib/imglyb]
+checkout = git clone git://github.com/imglib/imglyb
+
+[code/imglib/pom-imglib2]
+checkout = git clone git://github.com/imglib/pom-imglib2
