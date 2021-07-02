@@ -53,9 +53,6 @@ checkout = git clone git://github.com/imglib/imglib2-tests
 [code/imglib/imglib2-tutorials]
 checkout = git clone git://github.com/imglib/imglib2-tutorials
 
-[code/imglib/imglib2-ui]
-checkout = git clone git://github.com/imglib/imglib2-ui
-
 [code/imglib/imglib2-unsafe]
 checkout = git clone git://github.com/imglib/imglib2-unsafe
 
