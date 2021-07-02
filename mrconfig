@@ -58,6 +58,3 @@ checkout = git clone git://github.com/imglib/imglib2-unsafe
 
 [code/imglib/imglyb]
 checkout = git clone git://github.com/imglib/imglyb
-
-[code/imglib/pom-imglib2]
-checkout = git clone git://github.com/imglib/pom-imglib2
