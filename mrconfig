@@ -44,9 +44,6 @@ checkout = git clone git://github.com/imglib/imglib2-realtransform
 [code/imglib/imglib2-roi]
 checkout = git clone git://github.com/imglib/imglib2-roi
 
-[code/imglib/imglib2-script]
-checkout = git clone git://github.com/imglib/imglib2-script
-
 [code/imglib/imglib2-tests]
 checkout = git clone git://github.com/imglib/imglib2-tests
 
