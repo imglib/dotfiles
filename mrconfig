@@ -35,9 +35,6 @@ checkout = git clone git://github.com/imglib/imglib2-imglyb
 [code/imglib/imglib2-introductory-workshop]
 checkout = git clone git://github.com/imglib/imglib2-introductory-workshop
 
-[code/imglib/imglib2-javadoc]
-checkout = git clone git://github.com/imglib/imglib2-javadoc
-
 [code/imglib/imglib2-realtransform]
 checkout = git clone git://github.com/imglib/imglib2-realtransform
 
@@ -61,3 +58,6 @@ checkout = git clone git://github.com/imglib/imglyb-bdv
 
 [code/imglib/imglyb-examples]
 checkout = git clone git://github.com/imglib/imglyb-examples
+
+[code/javadoc/imglib2-javadoc]
+checkout = git clone git://github.com/imglib/imglib2-javadoc
