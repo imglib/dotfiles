@@ -23,6 +23,12 @@ checkout = git clone git@github.com:imglib/imglib2-algorithm-fft
 [code/imglib/imglib2-algorithm-gpl]
 checkout = git clone git@github.com:imglib/imglib2-algorithm-gpl
 
+[code/imglib/imglib2-appose]
+checkout = git clone git@github.com:imglib/imglib2-appose
+
+[code/imglib/imglib2-blk]
+checkout = git clone git@github.com:tpietzsch/imglib2-blk
+
 [code/imglib/imglib2-cache]
 checkout = git clone git@github.com:imglib/imglib2-cache
 
